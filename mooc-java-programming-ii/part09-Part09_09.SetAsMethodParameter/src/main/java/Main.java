@@ -1,0 +1,26 @@
+import java.util.HashSet;
+import java.util.Set;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // You can test your method here
+        Set<String> set = new HashSet<>();
+        set.add("first");
+        set.add("first");
+        set.add("third");
+        set.add("third");
+        set.add("third");
+
+        System.out.println(returnSize(set));
+
+    }
+
+    private static int returnSize(Set<String> set) {
+        return set.size();
+    }
+
+    // implement the method returnSize here, which returns
+    // the number of elements in the set that it receives as a parameter.
+
+}
