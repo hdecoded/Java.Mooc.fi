@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ea97a2c-7386-428c-93b4-9a87059092f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/Part10_01.AverageOfNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/src/main/java/AverageOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/src/test/java/AverageOfNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_05.PrintingUserInput/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_05.PrintingUserInput/target/classes/PrintingUserInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_05.PrintingUserInput/target/test-classes/PrintingUserInputTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_06.LimitedNumbers/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_06.LimitedNumbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_06.LimitedNumbers/target/classes/LimitedNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_06.LimitedNumbers/target/test-classes/LimitedNumbersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/target/classes/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/target/classes/UniqueLastNames.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/target/test-classes/UniqueLastNamesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/target/classes/Hold.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/target/classes/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/target/classes/Suitcase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/target/test-classes/A_ItemTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/target/test-classes/B_SuitcaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/target/test-classes/C_HoldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/target/test-classes/D_GeneralTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/target/test-classes/TestUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_09.ReadingFilesPerLine/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_09.ReadingFilesPerLine/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_09.ReadingFilesPerLine/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_09.ReadingFilesPerLine/target/test-classes/ReadingFilesPerLineTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BooksFromFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BooksFromFileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/test.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/test.ipr" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rFeJwGOCMlnP6N1lZ239vumjKW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.BooksFromFileTest">
+    <configuration name="BooksFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BooksFromFile" />
+      <module name="Part10_10.BooksFromFile" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksFromFileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Part10_10.BooksFromFile" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooksFromFileTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BooksFromFileTest" />
+        <item itemvalue="Application.BooksFromFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ea97a2c-7386-428c-93b4-9a87059092f0" name="Default Changelist" comment="" />
+      <created>1618576197182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618576197182</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

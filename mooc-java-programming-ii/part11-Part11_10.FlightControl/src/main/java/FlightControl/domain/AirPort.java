@@ -1,0 +1,13 @@
+package FlightControl.domain;
+
+public class AirPort {
+    private String id;
+
+    public AirPort(String id) {
+        this.id = id;
+    }
+
+    public String getId() {
+        return id;
+    }
+}
